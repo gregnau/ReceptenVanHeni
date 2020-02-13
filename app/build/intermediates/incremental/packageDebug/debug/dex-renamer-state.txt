@@ -1,0 +1,4 @@
+#Thu Feb 13 11:41:11 CET 2020
+base.0=C\:\\Users\\medion\\Downloads\\ReceptenVanHeni\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
